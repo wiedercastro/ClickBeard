@@ -1,0 +1,86 @@
+[15-Jan-2022 17:38:22 America/Sao_Paulo] PHP Notice:  Undefined variable: data_cadastro in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/tarefas_cadastro.php on line 42
+[15-Jan-2022 17:38:22 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/tarefas_cadastro.php:42) in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/tarefas_cadastro.php on line 74
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 37
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: nome in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: sku in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: codigo_barras in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: descricao_resumida in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: valor in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: valor_promocional in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: url in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: estoque in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: disponibilidade in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: produto_orcamento in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: ocultar_preco in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: retirar_ingredientes in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: peso in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: altura in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: comprimento in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: largura in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: diferenca_encaixe in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: prazo_postagem in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: descricao in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: especificacoes in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: garantia in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: data_cadastro in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: visitas in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: total_em_vendas in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: fabricante in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: meta_descricao in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: meta_title in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: meta_keys in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: tipo in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: ordem in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: ultima_atualizacao in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: carousel in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: valida_cardapio in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Notice:  Undefined variable: valida_delivery in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 45
+[19-Jan-2022 06:36:22 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php:37) in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 59
+[19-Jan-2022 06:38:06 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 38
+[19-Jan-2022 06:39:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::select() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 36
+[19-Jan-2022 06:40:06 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 38
+[19-Jan-2022 06:40:55 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 38
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:09:32 America/Sao_Paulo] PHP Notice:  A non well formed numeric value encountered in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 43
+[19-Jan-2022 07:18:02 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 38
+[19-Jan-2022 07:25:47 America/Sao_Paulo] PHP Notice:  Undefined index: funcionarios in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 34
+[19-Jan-2022 07:28:52 America/Sao_Paulo] PHP Notice:  Undefined variable: funcionarios in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/produtos_cadastro.php on line 37
+[19-Jan-2022 07:58:50 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/agendar_cadastro.php:92) in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/agendar_cadastro.php on line 93
+[19-Jan-2022 08:01:21 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/agendar_cadastro.php:92) in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/agendar_cadastro.php on line 93
+[19-Jan-2022 09:48:10 America/Sao_Paulo] PHP Notice:  Undefined variable: operador in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/agendar_cadastro.php on line 74
+[19-Jan-2022 09:48:10 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/agendar_cadastro.php:74) in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/agendar_cadastro.php on line 84
+[19-Jan-2022 10:27:59 America/Sao_Paulo] PHP Notice:  Undefined variable: operador in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/agendar_cadastro.php on line 74
+[19-Jan-2022 10:27:59 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/agendar_cadastro.php:74) in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/agendar_cadastro.php on line 84
+[19-Jan-2022 15:22:36 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/cadastroNovo.php:52) in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/cadastroNovo.php on line 53
+[19-Jan-2022 15:24:21 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/cadastroNovo.php:52) in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/class/cadastroNovo.php on line 53
