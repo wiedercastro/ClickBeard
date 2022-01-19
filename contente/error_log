@@ -1,0 +1,123 @@
+[18-Jan-2022 16:28:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function conexao() on null in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 4
+[18-Jan-2022 16:28:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function conexao() on null in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php:4
+Stack trace:
+#0 {main}
+  thrown in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 4
+[18-Jan-2022 16:30:27 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 8
+[18-Jan-2022 16:30:28 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 8
+[18-Jan-2022 16:30:34 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 8
+[18-Jan-2022 16:30:35 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 8
+[18-Jan-2022 16:33:28 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 10
+[18-Jan-2022 16:33:28 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 10
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 16:36:25 America/Sao_Paulo] PHP Warning:  Illegal string offset 'id' in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 11
+[18-Jan-2022 17:11:43 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:11:43 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:11:43 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:11:43 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:11:43 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:11:43 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:11:43 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:11:43 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:11:44 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:11:44 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:11:44 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:11:44 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:11:44 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:11:44 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:11:44 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:11:44 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:12:29 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:29 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:12:29 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:29 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:12:29 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:29 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:12:29 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:29 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:12:30 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:30 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:12:30 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:30 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:12:30 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:30 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:12:30 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:30 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 17
+[18-Jan-2022 17:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:40 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:41 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:41 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:41 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:12:41 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:13:45 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:13:52 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:13:52 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:14:40 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:14:43 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:08 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:17:43 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined index: id in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
+[18-Jan-2022 17:19:09 America/Sao_Paulo] PHP Notice:  Undefined variable: i in /home2/wieder14/cozinhafit.wiedercastro.com/painel/content/busca.php on line 15
